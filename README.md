@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamrakholiya-1302&label=Profile%20views&color=0e75b6&style=flat" alt="gautamrakholiya-1302" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautamrakholiya-1302" alt="gautamrakholiya-1302" /></a> </p>
+
 
 - 🤝 I’m looking for help with **Somthing Devlopment Related Stuff or DSA Queries**
 
