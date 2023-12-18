@@ -12,7 +12,8 @@
 - 💬 Ask me about **DSA,Development**
 - 📫 How to reach me **rakholiyagautam1302@gmail.com**
 
-
+<h3 align="left">GitHub Stats:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GautamRakholiya-1302&row=1&column=6" alt="GautamRakholiya-1302" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
