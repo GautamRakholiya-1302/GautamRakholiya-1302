@@ -17,7 +17,6 @@
 <p align="left">
 
 <a href="https://twitter.com/Gautam_1302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Gautam_1302" height="30" width="40" /></a>
-
 <a href="https://www.linkedin.com/in/gautam-rakholiya-927980269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautam-rakholiya-927980269" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rakholiyagautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rakholiyagautam" height="30" width="40" /></a>
 </p>
