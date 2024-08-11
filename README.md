@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gautam Rakholiya</h1>
 <h3 align="center">I'm a passionate developer skilled in both frontend and backend, and I love tackling problems with a strong foundation in data structures and algorithms.</h3>
-<img align=="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/Gautam_1302" target="blank"><img src="https://img.shields.io/twitter/follow/Gautam_1302?logo=twitter&style=for-the-badge" alt="Gautam_1302" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamrakholiya-1302&label=Profile%20views&color=0e75b6&style=flat" alt="gautamrakholiya-1302" /> </p>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautamrakholiya-1302" alt="gautamrakholiya-1302" /></a> </p> -->
