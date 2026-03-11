@@ -122,17 +122,10 @@
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/>
 </a>
 
-<a href="https://openai.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="40" height="40"/>
-</a>
-
 <a href="https://www.pinecone.io/" target="_blank">
 <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="40" height="40"/>
 </a>
 
-<a href="https://www.trychroma.com/" target="_blank">
-<img src="https://avatars.githubusercontent.com/u/104825115?s=200&v=4" width="40" height="40"/>
-</a>
 
 <!-- Tools -->
 <a href="https://git-scm.com/" target="_blank">
